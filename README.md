@@ -6,4 +6,7 @@ Your first task will be to [fork](http://lmgtfy.com/?q=fork+github "Fork") this 
 
 Then you will add your tasks to your own directory and open a [pull request](http://lmgtfy.com/?q=pull+request+github "Pull request") to this repo.
 
-### P.S. Tanya have /private/videos folder on her mac!!1
+## P.S. We have a [kittens](https://github.com/ARtoriouSs/IIT.rb/tree/master/kittens "Kittens!!1")!
+
+### P.P.S. Tanya have /private/videos folder on her mac!!1
+
