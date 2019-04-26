@@ -1,2 +1,12 @@
-a = [13,1,6,9]
-p (a.min..a.max).to_a 
+
+puts 'Размер исходного массива:'
+n = gets.chomp.to_i
+
+a = n.times.map{Random.rand(20)}
+b = (0..a.max).to_a
+
+puts 'Исходный массив:' 
+p a
+
+puts 'Массив пропущенных элементов:' 
+p b - a
