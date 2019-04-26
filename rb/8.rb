@@ -1,4 +1,3 @@
-
 puts 'Введите строку:'
 str = gets.chomp.to_s
 
