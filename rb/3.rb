@@ -1,12 +1,12 @@
 puts 'Размер исходного массива:'
-s = gets.chomp.to_i
+original_array_size = gets.chomp.to_i
 
-a = []
-s.times { a << Random.rand(20) }
-b = (0..a.max).to_a
+original_array = []
+original_array_size.times { original_array << Random.rand(20) }
+full_array = (0..original_array.max).to_a
 
 puts 'Исходный массив:' 
-p a
+p original_array
 
 puts 'Массив пропущенных элементов:' 
-p b - a
+p full_array - original_array
