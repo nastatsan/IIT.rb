@@ -1,14 +1,8 @@
 # IIT.rb
 
-This is our mzfkng repo, here you will push your tasks to rewiew! I pishu na English because mogu. And because you should priviknut' googlit' na English.
-
-Your first task will be to [fork](http://lmgtfy.com/?q=fork+github "Fork") this repo and create a directory that should be named as your name.
-
-Then you will add your tasks to your own directory and open a [pull request](http://lmgtfy.com/?q=pull+request+github "Pull request") to this repo.
-
 ## Task 1:
 
-Эхх, Таня записала задания на русском, а мне лень переводить, так что и так сойдёт. Штош, первое задание следующее: Есть 16 задач, нужно решить те 4 из них, которые вы себе зарандомили. Скрипт для каждой задачи нужно положить в отдельный файлик и назвать его номером надания, все файлики должны лежать в вашей папке (написано выше). Он должен работать для любых валидных входных данных. Писать нужно в руби стиле.
+Штош, первое задание: Есть 16 задач, нужно решить те 4 из них, которые вы себе зарандомили. Скрипт для каждой задачи нужно положить в отдельный файлик и назвать его номером надания, все файлики должны лежать в папке с вашим именем. Он должен работать для любых валидных входных данных. Писать нужно в руби стиле.
 
 **Александр:** 1, 11, 13, 16
 
@@ -16,7 +10,7 @@ Then you will add your tasks to your own directory and open a [pull request](htt
 
 **Кирилл:** 2, 4, 6, 12
 
-**Лизавета:** 5, 7, 9, 14
+**Елизавета:** 5, 7, 9, 14
 
 ### Варианты:
 
@@ -52,5 +46,11 @@ Then you will add your tasks to your own directory and open a [pull request](htt
 
 16. Понять местами ключ-значения в хэше.
 
-## P.S. We have a [kittens](https://github.com/ARtoriouSs/IIT.rb/tree/master/kittens "Kittens!!1")!
+## Task 2:
 
+Пилим консольные шахматы (не оригинально, но всё же). Условия следующие: 
+- ООП.
+- Для двух игроков, ~по хардкору~ по желанию можно запилить простого бота.
+- Реализовать возможность сохранять прогресс в файл и загружать игру из файла.
+
+Реализация полностью на ваше усмотрение, можно всё :)
